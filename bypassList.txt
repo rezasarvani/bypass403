@@ -1,0 +1,44 @@
+{"http_method": "GET", "path": "", "protocol": "{{schema}}"}
+{"http_method": "POST", "path": "", "protocol": "{{schema}}"}
+{"http_method": "HEAD", "path": "", "protocol": "{{schema}}"}
+{"http_method": "OPTIONS", "path": "", "protocol": "{{schema}}"}
+{"http_method": "DELETE", "path": "", "protocol": "{{schema}}"}
+{"http_method": "PATCH", "path": "", "protocol": "{{schema}}"}
+{"http_method": "GET", "path": "", "protocol": "rev:{{schema}}"}
+{"http_method": "POST", "path": "", "protocol": "rev:{{schema}}"}
+{"http_method": "HEAD", "path": "", "protocol": "rev:{{schema}}"}
+{"http_method": "OPTIONS", "path": "", "protocol": "rev:{{schema}}"}
+{"http_method": "DELETE", "path": "", "protocol": "rev:{{schema}}"}
+{"http_method": "PATCH", "path": "", "protocol": "rev:{{schema}}"}
+{"http_method": "GET", "path": "/.css", "protocol": "{{schema}}"}
+{"http_method": "GET", "path": "/.json", "protocol": "{{schema}}"}
+{"http_method": "GET", "path": "//", "protocol": "{{schema}}"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:PUT"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:POST"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:HEAD"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:OPTIONS"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:DELETE"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:PATCH"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:TARCE"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:CONNECT"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:INVENTED"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-HTTP-Method-Override:HACK"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "Host:google.com"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Originating-IP:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Forwarded-For:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Forwarded:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "Forwarded-For:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Forwarded-Host:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Remote-IP:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Remote-Addr:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-ProxyUser-Ip:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Original-URL:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "Client-IP:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Client-IP:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Host:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "True-Client-IP:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "Cluster-Client-IP:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-ProxyUser-Ip:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "Via:1.0 fred, 1.1 127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "Forwarded:127.0.0.1"}
+{"http_method": "GET", "path": "", "protocol": "{{schema}}", "header": "X-Real-IP:127.0.0.1"}

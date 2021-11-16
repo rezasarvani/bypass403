@@ -1,0 +1,12 @@
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~/%2e/"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~/%252e/"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~/%ef%bc%8f"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "after~/"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "after~/."}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "after~.json"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "after~.css"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~//|after~//"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~/./|after~/.."}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~/;/"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~/.;/"}
+{"http_method": "GET", "protocol": "{{schema}}", "pattern": "before~//;//"}
