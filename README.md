@@ -16,9 +16,9 @@ Note: more examples are at the end of the page
 
 # Why This Tool?
 
-You can search github and you'll find plenty of 403 bypass tools, but there are two main reasons to use this one :)<br>
-1) the **current signatures** of the tool are very updated and it is based on multiple **Bug Bounty Writeups**<br>
-2) You can **customize** signatures and add new ones based on your own methodology<br>
+Two main reasons to use this tool:<br>
+1) the **current signatures** of the tool are updated and it is based on multiple **Bug Bounty Writeups**<br>
+2) You can **customize** signatures and add new ones based on your own methodology **Super Easy**<br>
 
 # Signatures
 
