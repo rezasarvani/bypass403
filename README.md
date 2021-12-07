@@ -4,7 +4,7 @@ Using this tool, you can fuzz your 403/401 endpoint and try to access it without
 <br>You can also customize your payloads and update them regularly
 
 # How To Use?
-1) git clone https://git.mihanhosting.net/rezasarvani/bypass403<br>
+1) git clone https://github.com/rezasarvani/bypass403<br>
 2) cd bypass403<br>
 3) python main.py -u "TargetURL"<br>
 Note: more examples are at the end of the page
